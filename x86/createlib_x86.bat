@@ -1,0 +1,1 @@
+lib /def:MpClient.def /out:MpClient.lib /machine:x86
